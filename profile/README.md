@@ -1,8 +1,9 @@
 ## UnifiedGaming Systems' Info!
-[![](https://img.shields.io/badge/MazeyMoos0022-%23121011.svg?logo=github&logoColor=white)](https://github.mazeymoos.com)
+[![](https://img.shields.io/badge/UnifiedGaming%20Systems-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/unifiedgaming-systems)
 
 Founder, Director and CEO:
-[![](https://img.shields.io/badge/UnifiedGaming%20Systems-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/unifiedgaming-systems)
+
+[![](https://img.shields.io/badge/MazeyMoos0022-%23121011.svg?logo=github&logoColor=white)](https://github.mazeymoos.com)
 
 ## Website
 <a href="https://unifiedgaming-systems.mazeymoos.com"><img src="https://img.shields.io/badge/-UnifiedGaming%20Systems-lightgrey?logo=GitHub"></a>
