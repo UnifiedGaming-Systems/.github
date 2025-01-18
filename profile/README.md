@@ -1,15 +1,23 @@
 ## UnifiedGaming Systems' Info!
+[![](https://img.shields.io/badge/MazeyMoos0022-%23121011.svg?logo=github&logoColor=white)](https://github.mazeymoos.com)
 
-# Latest Repository
-[![Latest Repo](https://raw.githubusercontent.com/UnifiedGaming-Systems/website/refs/heads/main/image.png)](https://github.com/UnifiedGaming-Systems/website)
+Founder, Director and CEO:
+[![](https://img.shields.io/badge/UnifiedGaming%20Systems-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/unifiedgaming-systems)
+
+## Website
+<a href="https://unifiedgaming-systems.mazeymoos.com"><img src="https://img.shields.io/badge/-UnifiedGaming%20Systems-lightgrey?logo=GitHub"></a>
+![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
+
+## Languages
+![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
+![](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 
 # Discord RPC Presence
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1209539928866816143)
 
-# Spotify Currently Playing...
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=x060f5w4ftwv8zc8fi9662t70&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-# Social Media
 ## BlueSky
 [![Bluesky](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQisgVDuqcaIlF_zaU0fKuHuCd-nMRDGMwRtg&s)](https://bsky.app/profile/unifiedgaming-systems.mazeymoos.com)
 ## Twitter/X
