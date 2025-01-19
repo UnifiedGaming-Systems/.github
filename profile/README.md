@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/UnifiedGaming%20Systems-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/unifiedgaming-systems)  
 [![License](https://img.shields.io/github/license/unifiedgaming-systems/unifiedgaming-systems)](https://github.com/unifiedgaming-systems/unifiedgaming-systems/blob/main/LICENSE)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)  
-[![GitHub stars](https://img.shields.io/github/stars/unifiedgaming-systems/unifiedgaming-systems?style=social)](https://github.com/unifiedgaming-systems/unifiedgaming-systems/stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/unifiedgaming-systems?style=social)](https://github.com/unifiedgaming-systems)
 
 We are dedicated to creating innovative gaming solutions that bring communities together and redefine the gaming experience. Our mission is to unify gaming platforms, systems, and players through cutting-edge technology and a user-first approach.
 
