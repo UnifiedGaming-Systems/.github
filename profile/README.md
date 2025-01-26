@@ -43,7 +43,7 @@ We specialize in:
 ![Discord](https://discord-readme-badge.vercel.app/api?id=1209539928866816143)
 
 ### **BlueSky**
-[![Bluesky](https://img.shields.io/badge/Bluesky-%23121011.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/unifiedgaming-systems.mazeymoos.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%23121011.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/unifiedgaming-systems.co.uk)
 
 ### **Twitter/X**
 [![Twitter](https://img.shields.io/badge/Twitter/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/UnifiedGameSys)
