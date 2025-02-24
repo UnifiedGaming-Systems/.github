@@ -1,7 +1,7 @@
 # Welcome to UnifiedGaming Systems! 🎮
 
 [![](https://img.shields.io/badge/UnifiedGaming%20Systems-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/unifiedgaming-systems)  
-[![License](https://img.shields.io/github/license/unifiedgaming-systems/unifiedgaming-systems)](https://github.com/unifiedgaming-systems/unifiedgaming-systems/blob/main/LICENSE)  
+[![License](https://img.shields.io/github/license/unifiedgaming-systems/unifiedgaming-systems)](https://github.com/UnifiedGaming-Systems/policies)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)  
 [![GitHub followers](https://img.shields.io/github/followers/unifiedgaming-systems?style=social)](https://github.com/unifiedgaming-systems)
 
