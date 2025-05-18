@@ -39,9 +39,6 @@ We specialize in:
 
 ## 📢 Social Media Presence
 
-### **Discord RPC Presence**
-![Discord](https://discord-readme-badge.vercel.app/api?id=1209539928866816143)
-
 ### **BlueSky**
 [![Bluesky](https://img.shields.io/badge/Bluesky-%23121011.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/unifiedgaming-systems.co.uk)
 
